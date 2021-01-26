@@ -21,10 +21,15 @@ namespace test
             {
                 x = 1;
             }
+            
+            x=20;
+            x+=5;
+            
+                 Console.WriteLine(x);        
+            
 
 
-
-            Console.WriteLine(x);
+            Console.WriteLine("GİT HUBDAN MERKAHABA ");
 
 
             Console.Read();
